@@ -1,4 +1,4 @@
-### Hey, my mame is Gabriel Claudino, student and enthusiast of Front-End development.
+### Hey, my name is Gabriel Claudino, student and enthusiast of Front-End development.
 
 Experience in HTML, CSS, JavaScript and GIT.
 
