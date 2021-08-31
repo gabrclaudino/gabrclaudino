@@ -1,5 +1,6 @@
-### Olá, me chamo Gabriel Claudino, estudante e entusiasta da área de Programação Front-End. 
-Experiência em HTML, CSS, JavaScript e GIT.
+### Hey, my mame is Gabriel Claudino, student and enthusiast of Front-End development.
+
+Experience in HTML, CSS, JavaScript and GIT.
 
 <a href="https://www.linkedin.com/in/gabriel-claudino-18a9261a0/" target="_blank">Linkedin</a>
 
